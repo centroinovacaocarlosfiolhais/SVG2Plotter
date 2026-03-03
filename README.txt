@@ -26,6 +26,6 @@ REQUISITOS
 
 LICENÇA
 -------
-  © 2025 David Marques · Centro de Inovação Carlos Fiolhais
+  © 2026 David Marques · Centro de Inovação Carlos Fiolhais
   Creative Commons BY-NC-ND 4.0
   creativecommons.org/licenses/by-nc-nd/4.0
